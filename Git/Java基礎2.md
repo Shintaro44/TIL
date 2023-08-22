@@ -5,4 +5,9 @@
 
 # replitを用いた練習
 - ※Javaでは命令の最後に「;」をつけること
+- 必ず必要なコードは以下になる。class Main {
+  public static void main(String[] args) {
+    //ここに処理を記述する
+  }
+}
 - 
