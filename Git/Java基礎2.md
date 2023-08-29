@@ -22,4 +22,11 @@
 # 四則演算
 - replitにて　System.out.println( + );　のコードで実行する
 - 加算（+） 減算(-) 乗算(*) 除算(/) 剰余(%)
+#　比較演算子
+- ==	a == b	aとbが等しい場合true
+- <	  a < b	  aがbより小さい場合true
+- >	  a > b	  aがbより大きい場合true
+- <=	a <= b	aがb以下の場合true
+- >=	a >= b	aがb以上の場合true
+- !=	a!= b	  aとbが等しくない場合true
 - 
