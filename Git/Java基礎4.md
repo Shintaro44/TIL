@@ -8,4 +8,7 @@
 - ArrayListの宣言　　ArrayList<Integer> scores = new ArrayList<Integer>();
 - ArrayListに値を代入  scores.add(数);
 - ArrayListから要素取り出す指示  System.out.println(scores.get(0から数));
-- 
+- 宣言方法例
+- ArrayList<データ型> scores = new ArrayList<データ型>();
+- 整数（Integer）を格納するArrayListについて「score」という名称で宣言する
+- ArrayListの要素を作成する
