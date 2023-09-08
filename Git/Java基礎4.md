@@ -12,3 +12,6 @@
 - ArrayList<データ型> scores = new ArrayList<データ型>();
 - 整数（Integer）を格納するArrayListについて「score」という名称で宣言する
 - ArrayListの要素を作成する
+- Addメソッドを用いて値を代入する
+- 例　　　scores.add(数);
+- 
